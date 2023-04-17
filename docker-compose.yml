@@ -1,0 +1,3 @@
+services:
+  sample-app:
+    image: boilerplate/sample-app
